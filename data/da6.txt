@@ -1,0 +1,124 @@
+Title: Sr Data Analyst Job
+Company: Armstrong World Industries
+Location: Lancaster, Pennsylvania
+
+Primary location: Remote or Lancaster, PA
+Relocation offered: No
+Employment status: Full-Time
+Travel: No
+Non-compete: No
+
+The estimated base salary range for this role is $120,000 to $140,000 per year.
+Individual pay is based upon location, skills and expertise, experience and other relevant factors
+
+​What does it mean to work at Armstrong?
+
+It means being immersed in a supportive culture that recognizes you as a key player in Armstrong's future. We are a large company with a local feel, where you will get to know and collaborate with leadership and your colleagues across the company.
+
+By joining us, you'll have the opportunity to make the most of your potential. Alongside a competitive remuneration package, you will receive:
+• A benefits package including: medical, dental, prescription drug, life insurance, 401k match, long-term disability coverage, vacation and sick time, product discount programs and many more.
+• Personal development to grow your career with us based on your strengths and interests.
+• A casual work environment where we have a recognition program for our team, and service awards. You will also be able to make the most of our fitness center and lunchtime cafe.
+• A working culture that balances individual achievement with teamwork and collaboration. We draw on each other's strengths and allow for different work styles to build engagement and satisfaction to deliver results.
+
+A Senior Data Analyst of Data & AI Enablement plays a critical role in advancing the organization’s data-driven culture. This role is responsible for enabling business intelligence (BI) capabilities, driving data literacy, and implementing scalable self-service analytics. Acting as a bridge between IT and internal stakeholders, the Senior Data Analyst educates and empowers business leaders and users on the art of the possible with data and AI while establishing standards, governance, and best practices for BI development and usage.
+
+This role combines hands-on analytics and BI development with enablement, training, and thought leadership to ensure data is trusted, accessible, and effectively used to drive business outcomes. As one of the organizations biggest champions and enabler of data and AI, the Senior Data Analyst will work with all level to ensure data and AI are viewed and used as an asset to enable the organization to meet their strategic objectives.
+
+What’s in it for you!
+
+Lead enterprise-wide impact by shaping how data and AI are adopted, understood, and leveraged across the organization.
+
+Own meaningful work that blends hands-on analytics with strategic enablement, training, and thought leadership.
+
+Grow your technical and leadership skillset as you drive standards, governance, and scalable self-service analytics.
+
+What You’ll Do
+
+BI Solutions & Executive Reporting
+• Develop and enhance executive and operational dashboards and analytics solutions using enterprise BI tools (e.g., Power BI, Tableau).
+• Translate business needs into clear requirements (user stories, acceptance criteria) and deliver analytics that drive measurable business outcomes.
+• Partner with data engineering and platform teams to ensure datasets and models are reusable, scalable, well-documented, and business-friendly.
+• Lead user acceptance testing (UAT) for analytics deliverables, including test scripts, workshops, and sign-off.
+
+Governed Self-Service Analytics (Strategy + Adoption)
+• Define and execute a roadmap for governed self-service analytics across the enterprise.
+• Establish guardrails that enable business users to perform ad hoc analysis and build reports/dashboards responsibly and securely.
+• Create an “enterprise certification” approach for both IT-built and business-built reports/dashboards (e.g., certified datasets, endorsed reports, naming/UX standards).
+
+Standards, Governance & Trusted Data
+• Build and maintain BI development standards (data modeling, dashboard design, performance optimization, documentation).
+• Create and maintain a data dictionary / KPI definitions in partnership with data owners and governance council.
+• Promote consistent naming conventions, design standards, and documentation practices to improve trust and reuse.
+• Partner with the Data & AI Governance Council to align analytics solutions with data quality, security, privacy, and compliance requirements.
+
+Enablement, Training & Data Literacy
+• Design and deliver a data literacy and BI enablement program, including personas, learning paths, and role-based development tracks.
+• Develop training content (hands-on workshops, job aids, videos, FAQs) and run office hours to support users at varying skill levels.
+• Lead or co-lead BI Communities of Practice and user groups to share wins, tips, standards, and new capabilities.
+• Create and execute an annual analytics communications plan (newsletters/Teams posts, training calendar, release notes, capability launches).
+
+Access Management & Tooling
+• Define and document standard operating procedures for analytics tools and licensing expectations (e.g., Power BI, Tableau, Alteryx).
+• Support BI access governance in partnership with IT/security to ensure appropriate, secure, and timely access to trusted data.
+
+Operational / Legacy Support (as needed)
+• Provide support for select legacy reports, platforms, and manual processes to maintain continuity (“keep the lights on”), while identifying opportunities to simplify, automate, and retire low-value work.
+
+What will make you successful
+• Strong experience with Power BI and/or Tableau (data modeling, dashboard design, performance tuning).
+• Demonstrated ability to translate business needs into effective, consumable analytics solutions.
+• Strong communication skills with the ability to explain data concepts to non-technical audiences.
+• Experience building or delivering analytics enablement (training programs, documentation, or communities of practice).
+
+Qualifications
+• Bachelor’s degree in Computer Science, Information Systems, Business Management, or related field; or equivalent experience in lieu of degree
+• Experience: 5-8 years of experience as a Data Analyst or similar role.
+• 5+ years of experience in data analytics / BI / reporting roles.
+
+What will make you stand out
+• Experience implementing governed self-service analytics at scale.
+• Familiarity with data governance, data quality, metadata management, and KPI management practices.
+• Exposure to AI/ML concepts and practical business use cases.
+• Experience working in a matrixed environment partnering across IT and business teams.
+• Experience with Databricks (or similar modern data platforms)
+
+Certificates, Licenses, Registrations
+• Certification in technical discipline (Power BI, Tableau, AI) is preferred.
+
+Competencies
+• Data storytelling and executive-ready visualization
+• Stakeholder influence and change adoption
+• Analytical problem solving and structured requirements
+• Documentation, standards, and governance discipline
+• Continuous learning mindset in BI, analytics, and emerging AI capabilities
+
+Why should you join Armstrong World Industries?
+
+Armstrong World Industries (AWI) is an Americas leader in the design and manufacture of innovative interior and exterior architectural applications including ceilings, specialty walls and exterior metal solutions. With approximately $1.4 billion in revenue, AWI has about 3,700 employees and a manufacturing network of 21 facilities in North America.
+
+At home, at work, in healthcare facilities, classrooms, stores, or restaurants, we offer interior solutions that help to enhance comfort, save time, improve building efficiency and overall performance, and create beautiful spaces.
+
+For more than 160 years, we have built our business on trust and integrity. It set us apart then, and it sets us apart now, along with our ability to collaborate with and innovate for the people we're here to serve - our customers, our shareholders, our communities and our employees.
+
+We are committed to developing new and sustainable architectural solutions, with design and performance possibilities that make a positive difference in spaces where we live, work, learn, heal and play. It's an exciting, rewarding business to be in, and we're committed to continue to grow and prosper for the benefit of all of our stakeholders. We hope you join us.
+
+Our Sustainability Ambition
+
+"Bringing our Purpose to Life" - lead a transformation in the design and building of spaces fit for today and tomorrow.
+We are committed to:
+• Engaging a diverse, purpose-driven workforce;
+• Transforming buildings from structures that shelter into structures that serve and preserve the health and well-being of people and planet;
+• Pursuing sustainable, innovative solutions for spaces where we live, work, learn heal and play;
+• Being a catalyst for change with all of our stakeholders; and
+• Making a positive difference in the environments and communities we impact.
+
+About the location (Lancaster PA)
+
+Lancaster, PA. A great central location in South Central Pennsylvania, Lancaster is ideally situated for easy access to major metropolitan cities such as Philadelphia, Baltimore, Washington DC, and New York City. Lancaster offers a vibrant arts and entertainment community with wonderful historic sites, B&Bs, museums, great shopping, entertainment venues and restaurants.
+
+Armstrong is committed to engaging a diverse, purpose-driven workforce. As part of our dedication to diversity, AWI is committed to Equal Employment Opportunity and all qualified applicants receive consideration for employment without regard for race, sex, color, national origin, ethnicity, gender, protected veteran status, disability, sexual orientation, gender identity, or religion. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at by email at AWI talent acquisition and let us know the nature of your request and your contact information. Requests for accommodation will be evaluated on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+
+Come and build your future with us and apply today!
+
+#LI-MM1

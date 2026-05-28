@@ -1,0 +1,51 @@
+Title: Data Analyst - Space Manager
+Company: SAIC
+Location: Springfield, Virginia
+
+Description
+
+SAIC, a leading provider of systems development & deployment, targeting & intelligence analysis, systems engineering & integration, and solutions for the Intelligence Community, is seeking creative and dedicated professionals to fulfill their career goals and objectives while delivering mission excellence on programs of national importance.
+
+SAIC is seeking a Data Analyst - Space Manager for the integration and application of advanced data analytics to solve complex business challenges and enhance mission security. The successful applicant will serve as a subject matter expert (SME), responsible for the entire lifecycle of data analysis, refining business requirements and developing sophisticated analytical models to provide strategic recommendations that improve organizational efficiency and mitigate insider threats. This role demands a blend of deep technical expertise, strong business acumen, and the ability to lead, manage, and support critical operational and policy-related initiatives.
+
+Work will be performed at the customer site in Springfield, VA.
+• **The hiring of this position is contingent upon contract award. Anticipated award is fall of 2026.***
+• This position will collaborate with project requestors, senior stakeholders, and program managers to define, clarify, and refine complex business needs and strategic objectives. Utilize data-driven insights to recommend significant changes and process improvements.
+• This position will lead manage, and support business operations and policy development lifecycles. Serve as an SME for the development, review, coordination, promulgation, and compliance of enterprise-wide policies, including the maintenance of Self-Inspection Checklists and related documentation.
+• This position will architect, develop, and maintain advanced analytic models, visualizations, and tools to deter, detect, and mitigate insider threats. Apply expert knowledge of industry-standard data science principles to identify anomalous events and provide actionable intelligence.
+• This position will require candidates to translate complex quantitative and qualitative analysis into clear, compelling visuals, dashboards, and executive-level reports. Provide authoritative visual, technical, and editorial guidance, and confidently brief senior leadership on analytical findings, forecasts, and strategic recommendations.
+
+Duties Include:
+• The Contractor shall develop a physical space strategy that leverages technologies and/or tools to standardize and unify the management of physical space for the Analysis Directorate at customer sites in Washington, D.C. and St. Louis, MO.
+• The Contractor shall coordinate this plan with the customer’s Security and Installations Directorate (SI) to ensure compliance with customer policy and other applicable DOW/IC regulations.
+• The contractor shall deliver an implementation plan/strategy based on the approved recommendations from the Government lead that leverages technologies and/or tools to standardize and unify the management of physical space for the ASA Directorate at customer sites in Washington, D.C. and St. Louis, MO.
+• Develop and maintain a physical space implementation plan for the ASA Directorate to include the ability to monitor and track vacancies, equipment (i.e., thick/thin client), optimal seating arrangements, and special needs for emergencies at customer sites in Washington, D.C. and St. Louis, MO. The contractor shall deliver this plan at a reasonable time to be determined by the Government.
+• Leverage tools and/or technologies to develop and maintain a Tableau dashboard of all physical space activities such as monitor space requirements, real-time footprint, costs, risks, and challenges on a biannual basis. At a minimum, the dashboard data is to be refreshed once per week.
+• In coordination with government, develop space management policies, procedures, and standards for ASA.
+• Leverage tools and/or technologies to dynamically manage and visualize activities associated to physical space to include the ability to monitor and track vacancies, equipment (i.e., thick/thin client), optimal seating arrangements, and special needs for emergencies of all customer locations.
+• A holistic strategy for managing physical space for the ASA Directorate that delivers a repeatable process for assessing the needs, availability, and priority of physical space, in alignment with SI.
+• Leverage and integrate all sources of data from across customer sites that enable the accurate depiction of the Analysis footprint.
+• As requested, provide an in-depth review of the Analysis physical space program to establish corporate governance forums.
+• Identification and assessment of risks that could impede timely execution, and communicate anticipated changes and mitigation plans to the workforce and leadership via informal channels and established corporate governance forums.
+
+Qualifications
+
+Required Skills:
+• A minimum of a Master’s degree in Data Science, Statistics, Business, or a related field.
+• 7+ years proven experience in integrating, developing, and maintaining analytic models, visualizations, and tools, preferably in a security or threat-detection context. In lieu of a masters degree, 10+ years of experience. In lieu of a bachelor’s degree, 15+ years of experience.
+• Expert-level knowledge of data analytics and data science principles, with a demonstrated ability to apply them to identify anomalous events and create data-driven forecasts.
+• Extensive experience collaborating with stakeholders at all levels to define business requirements and translate them into technical solutions.
+• Demonstrated ability to lead process improvement initiatives and contribute to the full lifecycle of policy development and business operations.
+• Mastery of data visualization and dashboard development using data sets from various sources.
+• Exceptional ability to transform complex data sets into compelling visuals, reports, and briefings for leadership.
+• Excellent verbal and written communication skills, with experience providing technical and editorial guidance.
+• Direct experience supporting and maintaining risk-scoring models or similar predictive analytic systems.
+• Experience in a role requiring significant cross-functional collaboration and the ability to manage competing priorities.
+• Proficiency in creating and editing visual content such as charts and graphs to represent data.
+• At least 2 years demonstrated experience in one or more Geospatial Information Systems tools such as ArcView, ArcGIS, Remote View, ArcIMS, ERDAS Imagine, Remote View, ERDAS Imagine, Macromedia Dreamweaver, Macromedia Fireworks, Photoshop, HTML, and FrameMaker.
+• Demonstrated coding experience to support writing scripts with tools such as but not limited to Java and Python.
+• Demonstrated ability to use Share Point, Tableau, Redmine, and other systems/databases to manipulate and build data visualization.
+
+Desired Skills:
+• Experience in a leadership or mentorship role within a data analytics or business intelligence team.
+• Familiarity with geospatial analysis, web development principles, or specific program leadership reporting structures.

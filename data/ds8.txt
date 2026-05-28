@@ -1,0 +1,71 @@
+Title: Principal Data Scientist- Global Marketing Measurement & Optimization
+Company: McCormick & Company
+Location: Cockeysville, Maryland
+
+You may know McCormick as a leader in herbs, spices, seasonings, and condiments – and we’re only getting started. At McCormick, we’re always looking for new people to bring their unique flavor to our team.
+
+McCormick employees – all 14,000 of us across the world – are what makes this company a great place to work.
+
+We are looking to hire a Principal Data Scientist, Global Marketing Measurement and Optimization immediately in a Hybrid (50/50) capacity at our Global Headquarters in Hunt Valley, Maryland.
+
+What We Bring To The Table:
+
+The best people deserve the best rewards. In addition to the benefits you’d expect from a global leader (401k, health insurance, paid time off, etc.) we also offer:
+
+• Competitive compensation
+
+• Career growth opportunities
+
+• Flexibility and Support for Diverse Life Stages and Choices
+
+• Wellbeing programs including Physical, Mental and Financial wellness
+
+• Tuition assistance
+
+Position Summary:
+
+This Principal Data Scientist, Global Marketing Measurement and Optimization, will be responsible for bringing the data science expertise that is needed to lead a range of projects to drive better understanding of short- and long-term marketing effectiveness, including the next generation of technical modeling that powers McCormick’s marketing measurement and optimization program. McCormick can drive unprecedented brand growth by learning how to better measure all aspects of marketing/media design and execution and bringing these different analytics together to provide a holistic view on the drivers of short- and long-term growth and build predictive models to enable better decision making. The role is designed to give McCormick the data and analytical engine to make this happen.
+
+Key Responsibilities:
+• Lead the design and implementation of next-gen media measurement and optimization capabilities, integrating marketing mix, long term brand equity measurement, in-flight measurement (e.g., lift studies, A/B testing), pre-market factors that affect media (e.g., creative testing)
+• Develop media-driven volume forecasting tools to integrate into McCormick’s demand forecasting platform
+• Drive and leverage external connections to find new and improved tools and approaches to bring into McCormick
+• Partner with vendors used for outsourced models, serving as lead consultant on technical methodology alignment integration with new capabilities
+• Develop training content that enables business partners to use marketing optimization capabilities more effectively
+
+Qualifications:
+• Bachelor’s degree in Mathematics, Statistics, Engineering or Data Analytics/Science, or closely related field
+• 8+ years’ experience in data science, with media analytics expertise
+• Demonstrated sound understanding of concepts, principles and practices in Marketing and Sales
+• Understanding of the business and technical aspects of Marketing Mix Modeling, Media Effectiveness Testing tools (Lift, A/B, etc.), Creative Testing, and proficiency for the evolution of and other tools in the Media Effectiveness Space
+• Demonstrated skills and results in analyzing complex datasets, generating insights and building robust statistical models
+• Demonstrated ability to connect the dots between complex data/analytics and business understanding
+• Proficiency with building dashboards for business users using data visualization software (Power BI preferred)
+• Expertise in SQL and Python coding
+• Demonstrated experience with building data models, machine learning & AI
+• Comfortable working with structured and unstructured data sources, e.g. syndicated data, SAP
+• Proven project leadership experience with demonstrated success in balancing multiple projects in a fast-paced environment; foresees and addresses issues before they become significant obstacles
+• Strong technical curiosity, a passion for problem solving and the ability to uncover richness of analytic insight that translates to business opportunity
+• Demonstrated agile learning skills; ability to learn new technology, skills & tools quickly and easily
+• Ability to synthesize analytic learnings and translate into compelling stories for a business audience
+• Effective at building collaborative, cross functional and cross-geography partnerships
+• Excellent written communication and presentation skills
+• Ability to travel internationally, as needed (0-5%)
+• Strong personal leadership, including attention to detail, quality of work and bias toward action
+• CPG or Food/Bev experience (preferred)
+
+#LI-SM1
+
+As a general policy, McCormick does not offer employment visa sponsorships upon hire or in the future.
+
+Base Salary: $103,520 - 181,150.
+
+Base salary compensation will be determined based on factors such as geographic location, skills, education, experience for this role, and/or internal equity of our current employees as part of any final offer. This position is also eligible to participate in McCormick’s Sales Incentive Bonus (SIB) Plan. In addition to a competitive compensation package, permanent employees of McCormick are eligible for our extensive Total Rewards programs that include:
+
+- Comprehensive health plans covering medical, vision, dental, life and disability benefits
+
+- Family-friendly benefits such as paid parental leave, fertility benefits, Employee Assistance Program, and caregiver support
+
+- Retirement and investment programs including 401(k) and profit-sharing plans
+
+It is the policy of McCormick and Company to select and promote for all positions without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.

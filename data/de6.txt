@@ -1,0 +1,5 @@
+Title: Remote Staff Data Engineer — Marketing AI & Data Pipelines
+Company: General Motors
+Location: St Paul, Minnesota
+
+An iconic automotive brand is seeking a Staff Data Engineer to design and develop high-quality data and analytics products. This role involves optimizing data pipelines while collaborating with engineers, data scientists, and marketing stakeholders. Candidates should have 8+ years of relevant experience, proficiency in Python and SQL, and a degree in a technical field. Benefits include health coverage, retirement plans, and more. The position allows remote work with occasional travel requirements.

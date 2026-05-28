@@ -1,0 +1,25 @@
+Title: Data Engineer III with Epic Certification
+Company: VirtualVocations
+Location: Marietta, Georgia
+
+A company is looking for a Data Engineer III who will lead the design, development, and delivery of data pipelines and assets.
+
+Key Responsibilities
+
+Leverage expertise in data engineering and DataOps to transform large datasets from multiple sources
+
+Design, create, test, deploy, and maintain optimized data pipelines and data stores
+
+Enforce data governance policies and develop data quality frameworks
+
+Required Qualifications
+
+Bachelor's Degree required
+
+5 or more years of experience in analytics (Business Intelligence, Data Engineering, Data Science, etc.) required
+
+Epic certification / accreditation required within 6 months of hire
+
+Expert level SQL and data manipulation skills
+
+Experience with relational SQL and NoSQL databases, including Snowflake and MS SQL Server

@@ -1,0 +1,65 @@
+Title: Senior Analyst - Business Systems & Data
+Company: Walters Hospitality
+Location: Denton, Texas
+
+Senior Analyst – Business Data & Systems (REMOTE)
+
+Walters Hospitality is one of the premier wedding and hospitality companies in the United States, owning and operating 40+ venues across Texas and Georgia. Our vertically integrated platform encompasses venue operations, catering, bar services, lodging, construction and design, and a curated vendor collective. As we scale, we are investing heavily in the data infrastructure and financial systems that will power our next phase of growth.
+
+Position Summary:
+
+The Senior Analyst, Business Data & Systems is a newly created role that sits at the intersection of financial analysis, business intelligence, and IT systems management. Reporting to the VP - FP&A, this individual will serve as the primary owner of Walters’ financial technology stack and data infrastructure, while simultaneously functioning as a hands-on data and financial analyst who transforms raw data into actionable insights for leadership.
+
+This is a high-impact position for someone who is equally comfortable configuring databases and API integrations as they are building executive dashboards or presenting variance analyses to the CFO. The ideal candidate brings a blend of IT/data engineering expertise and financial acumen, and thrives in an entrepreneurial, fast-paced environment where they can help shape the company’s data strategy from the ground up.
+
+Key Responsibilities:
+
+Financial Systems & IT Infrastructure Management
+• Own and administer the company’s financial technology ecosystem, including Sage Intacct, Planful, Celigo, Calendly, Tripleseat, Ramp, Corrigo, and Paycom.
+• Manage and optimize integrations between systems via Celigo, ensuring seamless and accurate data flow across the organization.
+• Serve as the internal subject matter expert and first point of contact for all financial systems issues, configurations, and enhancements.
+• Lead the evaluation, selection, and implementation of future data and analytics infrastructure (e.g., Snowflake, Sigma, Power BI) as the company matures its data capabilities.
+• Develop and maintain system documentation, data dictionaries, and standard operating procedures for all financial technology platforms.
+• Partner with external vendors, consultants, and implementation teams to execute system rollouts and upgrades.
+• Provide strategic recommendations to the VP of FP&A and CFO on technology investments, system architecture, and the company’s data roadmap.
+
+Data Analysis & Business Intelligence
+• Design, build, and maintain reporting dashboards that synthesize data from multiple systems into unified, executive-ready views.
+• Perform regular and ad hoc financial and operational analyses, including revenue trends, cost analysis, venue-level profitability, and key performance indicators across the portfolio.
+• Create and deliver data-driven presentations and reports for executive leadership and venue operations teams.
+• Develop and maintain financial models that support budgeting, forecasting, and strategic planning processes in collaboration with the broader FP&A team.
+• Identify trends, anomalies, and opportunities in data that drive business decisions and operational improvements.
+• Ensure data integrity, accuracy, and consistency across all reporting outputs through robust validation and reconciliation processes.
+
+Strategic Data & Technology Leadership
+• Collaborate with cross-functional stakeholders (operations, sales, marketing, construction) to understand their data needs and translate them into scalable reporting solutions.
+• Champion a data-driven culture across the organization by improving data literacy, access, and self-service reporting capabilities.
+• Stay current on emerging trends in financial technology, data engineering, and business intelligence relevant to the hospitality industry.
+• Contribute to the long-term data strategy, including data governance, security, and scalability planning as Walters Hospitality continues its rapid growth.
+
+Required Qualifications:
+• Bachelor’s degree in Information Systems, Data Science, Computer Science, Finance, Accounting, or a related field.
+• 5+ years of progressive experience in a role combining financial/data analysis with IT systems administration or data engineering.
+• Demonstrated experience administering or implementing financial systems such as Sage, NetSuite, or comparable ERP/CPM platforms.
+• Hands-on experience with integration platforms (Celigo, Workato, MuleSoft, or similar iPaaS tools) and managing data flows between enterprise applications.
+• Strong proficiency in SQL and at least one data visualization/BI tool (Tableau, Power BI, Sigma, or similar).
+• Advanced Excel/Google Sheets skills, including complex financial modeling, pivot tables, and data manipulation.
+• Proven ability to build executive-level dashboards and reports that communicate complex data clearly to non-technical audiences.
+• Proven success as a project manager.
+• Strong written and verbal communication skills, including the ability to present findings and strategic recommendations to senior leadership.
+
+Preferred Qualifications:
+• Experience in the hospitality, events, food and beverage, or multi-unit services industry.
+• Relevant professional certifications such as Sage Intacct Certified, Snowflake SnowPro, Tableau Desktop Specialist, Microsoft Certified: Power BI Data Analyst, or similar.
+• Experience with cloud data platforms and modern data stack tooling.
+• Familiarity with Python or R for data analysis and automation.
+• Track record of building data infrastructure from the ground up in a high-growth or entrepreneurial environment.
+
+Core Competencies:
+• Analytical Rigor: Approaches problems with intellectual curiosity and a commitment to data-driven decision-making. Comfortable with ambiguity and able to structure analyses from scratch.
+• Systems Thinking: Sees connections between disparate platforms and data sources. Understands how changes in one system cascade across the technology ecosystem.
+• Ownership Mentality: Takes full accountability for the company’s data infrastructure and reporting outputs. Proactively identifies issues and drives solutions without waiting for direction.
+• Communication: Translates technical concepts into business language. Equally effective presenting to the CFO and troubleshooting an integration with a vendor support team.
+• Adaptability: Thrives in a fast-growing company where priorities shift, systems evolve, and the ability to learn quickly is essential.
+
+Compensation: $110-$125K base + bonus potential

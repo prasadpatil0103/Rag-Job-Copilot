@@ -1,0 +1,76 @@
+Title: Data Scientist
+Company: United Airlines
+Location: Berwyn, Pennsylvania
+
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world's mostinnovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as theyprovide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days arethe same.
+Location
+
+This is a remote role based anywhere in the United States with travel to Philadelphia once a month.
+
+About the Job You're Considering
+
+We are seeking a highly skilled Data Scientist to drive the adoption of algorithmic decision-making at scale within Group Digital. This role will focus on developing and deploying machine learning models, neural networks, supporting MLOps practices, to enhance personalization, and automation within our digital products.
+The ideal candidate will have experience in retail, personalization web technologies, and cutting-edge AI methods, including Recommendation Engines, Large Language Models (LLMs), Generative AI, and Knowledge Graphs
+
+Your Role
+• Develop and optimize predictive and prescriptive models to extract insights and enhance decision-making. Apply deep learning and neural network techniques for customer classification and profiling, customer segmentation and personalization.
+• Utilize MLOps and GCP services to efficiently deploy, monitor, and maintain ML models in production.
+• Implement and fine-tune Large Language Models (LLMs) and Generative AI solutions for automation and user engagement.
+• Explore and integrate knowledge graphs to enhance data relationships and improve AI-driven recommendations.
+• Work with data engineers to design and develop robust data pipelines for large-scale ETL processing using SQL and cloud-based solutions (GCP preferred).
+• Implement CI/CD workflows to automate model training, deployment, and monitoring.
+• Work in an Agile/DevOps environment, collaborating with cross-functional teams to drive data-driven innovation.
+• Promote a data-centric culture by educating teams on the strategic importance of AI and analytics.
+
+Your Skills and Experience
+• 5+ years of experience in Data Science, Machine Learning, or related fields.
+• Strong expertise in Python, SQL, and modern ML frameworks (TensorFlow, PyTorch, Scikit-Learn).
+• Experience with MLOps tools (MLflow, Kubeflow, Airflow) for model deployment and monitoring.
+• Proficiency in cloud platforms (GCP) and scalable data engineering.
+• Experience implementing and testing recommendation engines.
+• Strong understanding of probability theory, statistics, and experimental design (A/B
+• Experience with collaborative software engineering practices (Agile, DevOps).
+• Bachelor's or Master's degree in Computer Science, Mathematics, Engineering, or related field.
+• Background in Retail and Personalization Web Technologies, with experience with Knowledge Graphs and their integration into AI/ML pipelines.
+
+The base compensation range for this role in the posted location is: $65,200.- $169,000
+
+/Year
+
+Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.
+
+The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.
+
+These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.
+
+It is not typical for candidates to be hired at or near the top of the posted compensation range.
+
+In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.
+
+Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:
+
+Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave
+
+Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)
+
+Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)
+
+Life and disability insurance
+
+Employee assistance programs
+
+Other benefits as provided by local policy and eligibility
+
+Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini's discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.
+
+Disclaimers
+
+Capgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+
+Click the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

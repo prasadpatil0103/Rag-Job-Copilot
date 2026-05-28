@@ -1,0 +1,38 @@
+Title: Data Analyst, Specialist
+Company: Vanguard Careers
+Location: Charlotte, North Carolina
+
+Position Summary:
+
+​Analyzes data, assesses trends and develops actionable insights and recommendations in support of business objectives. Trains and develops junior analysts.
+
+Core Responsibilities
+• Engages with internal partners to understand business strategy, questions and goals. Brings structure to business requests, translates requirements into an analytical project approach, and leads projects through completion. Delegates tasks and provides tactical and strategic guidance to peers.
+• Acquires and compiles structured and unstructured data and verifies its quality, accuracy and reasonableness.
+• Performs analyses of historical data to surface trends and insights using advanced analytical methods. Validates analytical techniques employed by other analysts.
+• Prepares and delivers visualizations and internal presentations that translate analytic insights into tangible, actionable solutions for business partners to implement.
+• Develops, owns and manages recurring analytic or reporting processes.
+• Mentors, coaches, trains, and develops junior data analysts. Proactively expands knowledge of business and analytics and shares with team members. Shares and documents best practices.
+• Participates in special projects and performs other duties as assigned.
+
+Qualifications
+• Minimum 5 years of relevant work experience, with at least 3 years in advanced data analysis, statistical modeling or business intelligence.
+• Bachelor’s degree (B.E./B.Tech) in Computer Science, IT, or a Bachelor’s in Statistics/Mathematics.
+• Strong proficiency in SQL for querying, data extraction and performance optimization.
+• Expertise in Python or R for data manipulation, automation and advanced analytics.
+• Hands-on experience with data visualization tools like Power BI, Tableau or Looker to create interactive reports.
+
+Special Factors
+
+Sponsorship
+Vanguard is not offering visa sponsorship for this position.
+
+About Vanguard
+
+At Vanguard, we don't just have a mission—we're on a mission.
+
+To work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.
+
+How We Work
+
+Vanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.

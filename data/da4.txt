@@ -1,0 +1,72 @@
+Title: Data Specialist
+Company: CGS Federal (Contact Government Services)
+Location: Boynton, Georgia
+
+Employment Type: Full-Time, Mid-Level
+
+Department: Data Science
+
+As a Data Specialist for CGS you will help our government client in processing data using LAW. The ideal candidate will regularly load large volumes of production data; running exports from the database for creating discovery party productions. Downloading files from our file sharing tool, JEFS, and performing quality control on load and export files to ensure accuracy is vital to this job position.
+
+CGS brings motivated, highly skilled, and creative people together to solve the government’s most dynamic problems with cutting-edge technology. To carry out our mission, we are seeking candidates who are excited to contribute to government innovation, appreciate collaboration, and can anticipate the needs of others. Here at CGS, we offer an environment in which our employees feel supported, and we encourage professional growth through various learning opportunities.
+
+Skills And Attributes For Success
+• Modify load files and perform quality control on loaded data quickly and accurately
+• Assist with creating and updating document processing procedures as needed
+• Run multiple load streams simultaneously
+• Perform native file processing in LAW
+• Export data from Relativity to create load files for other various platforms as requested by Case Manager
+• Performs data conversion processing, including conversions of various document types
+• Perform special format data conversions and file manipulation requests
+• Handle quality control on load files and Relativity data loads and exports
+• Perform advanced requests, such as creating data exports for productions and performing quality control on files, and complicated overlays or appends, privilege clawbacks, and sequestration of documents
+• Perform quality control to confirm accuracy on loads completed by new Data Specialists
+• Provide hands-on training to other Data Specialist as needed
+• Perform basic Relativity searching and global updates to mark and/or tag records as requested; to include confirming record counts in Save Searches and Image redactions prior to creating exports for production
+• Clearly and accurately discusses data inconsistencies found with Project Manager
+• Assists on calls relating to data load file formats or media encryption software with Case - Manager and other IT individuals as requested
+
+Qualifications
+• Modify load files and perform quality control on loaded data quickly and accurately
+• Assist with creating and updating document processing procedures as needed
+• Run multiple load streams simultaneously
+• Perform native file processing in LAW
+• Export data from Relativity to create load files for other various platforms as requested by Case Manager
+• Performs data conversion processing, including conversions of various document types
+• Perform special format data conversions and file manipulation requests
+• Handle quality control on load files and Relativity data loads and exports
+• Perform advanced requests, such as creating data exports for productions and performing quality control on files, and complicated overlays or appends, privilege clawbacks, and sequestration of documents
+• Perform quality control to confirm accuracy on loads completed by new Data Specialists
+• Provide hands-on training to other Data Specialist as needed
+• Perform basic Relativity searching and global updates to mark and/or tag records as requested; to include confirming record counts in Save Searches and Image redactions prior to creating exports for production
+• Clearly and accurately discusses data inconsistencies found with Project Manager
+• Assists on calls relating to data load file formats or media encryption software with Case Manager and other IT individuals as requested
+
+Our Commitment
+
+Contact Government Services (CGS) strives to simplify and enhance government bureaucracy through the optimization of human, technical, and financial resources. We combine cutting-edge technology with world-class personnel to deliver customized solutions that fit our client’s specific needs. We are committed to solving the most challenging and dynamic problems.
+
+For the past seven years, we’ve been growing our government-contracting portfolio, and along the way, we’ve created valuable partnerships by demonstrating a commitment to honesty, professionalism, and quality work.
+
+Here at CGS we value honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers mending those relations for years to come.
+
+We care about our employees. Therefore, we offer a comprehensive benefits package.
+• Health, Dental, and Vision
+• Life Insurance
+• 401k
+• Flexible Spending Account (Health, Dependent Care, and Commuter)
+• Paid Time Off and Observance of State/Federal Holidays
+
+Contact Government Services, LLC is an Equal Opportunity Employer. Applicants will be considered without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Join our team and become part of government innovation!
+
+Explore additional job opportunities with CGS on our Job Board:
+
+https://cgsfederal.com/join-our-team/
+
+For more information about CGS please visit: https://www.cgsfederal.com or contact:
+
+Email: [email protected]
+
+#CJ$61,152 - $82,992 a yearWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

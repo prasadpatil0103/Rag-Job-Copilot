@@ -1,0 +1,61 @@
+Title: Senior Data Scientist - Operations Research
+Company: United Airlines
+Location: Chicago, Illinois
+
+Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.
+
+Come join us to create what’s next. Let’s define tomorrow, together.
+
+Description
+
+United's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.
+
+Job overview and responsibilities
+
+Provides mathematical modeling and analysis services to support critical financial, operational, and/or strategic planning decisions and engages in supporting project teams in value added activities that generate practical solutions to complex business problems, explores new business alternatives, and drives improvement in business decisions
+• Develops the approach and methods to define and solve management problems through quantitative analysis and analytical models using operations research, machine learning, and structured programming languages
+• Identifies, researches, or solves large complex problems using big data and operations research and machine learning principles
+• Leverages understanding of the business process to identify and implement operations research solutions that will result in significant bottom-line contributions
+• Builds and develops operations research/optimization mathematical model applications, and provides client support leveraging operations research knowledge
+• Participates in model design, prototype, and model development for several efforts that occur simultaneously, and interfaces with product delivery groups
+• Raises concerns when scope of analysis may not align with time available and can choose an appropriate scope of analysis to conduct balancing ROI to time available
+• Designs analytic plan/develop hypotheses to test; understands limitations of analysis (what it can and cannot be used for)
+• Anticipates working team questions to data and approach
+• Identifies solution quality risks and on-time risks
+• Understands the business value, process, and expectations before focusing on choice of a technical solution
+• Understands the intuition behind the numbers (i.e. does it make sense?)
+• Provides on-going analytical services to client organizations
+• Communicates results to management and clients
+• Contributes deck content and builds the story for the deck with guidance to summarize findings
+• Develops and delivers presentations aligned with Ai standards
+• Speaks in a manner appropriate for working team and their level +1
+• Keeps informed about the latest analytical methods and research in the operations research and analytics fields
+
+Qualifications
+What’s needed to succeed (Minimum Qualifications):
+• Advanced degree (PhD or ABD) in Operations Research or other related quantitative discipline involving quantitative analysis and application of advanced operations research principles
+• Coursework or work experience with mathematical programming techniques
+• Coursework or work experience in model prototyping through use of optimization toolkit(s) including CPLEX, AMPL, or OPL
+• Coursework or work experience with C, C++, Java, R, Python, or other structured programming language
+• Good business, technical, verbal/written communication, presentation and sales skills. Adaptability to changing business environment
+• Good interpersonal skills and ability to interact with clients
+• Proficient with MS Office
+• Successful completion of interview required to meet job qualification
+• Reliable, punctual attendance is an essential function of the position
+
+What will help you propel from the pack (Preferred Qualifications):
+• Minor in computer science and/or formal advanced computer science coursework preferred
+• 2+ years of professional experience in analytical field
+• 1+ years of airline business experience
+• 1+ years designing and programming/coding data structures for large-scale computer models
+• Experience with Julia programming language
+• Knowledge of United/industry data sources
+• Structured programming for large-scale computer models
+• Demonstrated ability to create business value
+
+The base pay range for this role is $117,610.00 to $153,146.00.
+The base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.
+
+You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.
+
+United Airlines is an Equal Opportunity Employer. We recruit, employ, train, compensate, and promote without regard to race, color, religion, national origin, gender identity, sexual orientation, disability, age, veteran status, or any other protected category under applicable law. We provide reasonable accommodations for applicants and employees with disabilities. To request an accommodation, contact JobAccommodations@united.com

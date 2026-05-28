@@ -1,0 +1,52 @@
+Title: Health Data Scientist (AI & Clinical Data) (26-003)
+Company: Strategic Analysis, Inc.
+Location: Arlington, Virginia
+
+Strategic Analysis, Inc. (SA) Is actively seeking a Health Data Scientist to provide technical leadership in data design, evaluation strategy, and clinical realism for a multi-stakeholder program advancing AI diagnostics for rare diseases. This is a Science and Engineering and Technical Advisor (SETA) role focused on ensuring that datasets, benchmarks, and evaluation methods are scientifically rigorous, clinically grounded, and aligned with real-world use.
+
+In this role, Health Data Scientist will operate at the intersection of health data, AI evaluation, and clinical practice, providing expert guidance to program leadership and external performers. You will help define what success means for AI diagnostics in rare disease contexts and ensure that technical progress translates into meaningful clinical insight and patient impact. This role is ideal for someone who combines deep experience with healthcare data and AI evaluation with the ability to critically assess methodologies, anticipate failure modes, and translate clinical realities into measurable technical criteria.
+
+Roles and Responsibilities:
+1. Lead and advise on the design, preparation, and validation of healthcare datasets used across the program, including EHR, genomic, and multimodal data.
+2. Define and assess evaluation strategies and benchmarks that are clinically realistic, methodologically sound, and resistant to shortcut learning or leakage.
+3. Review technical proposals, model submissions, and evaluation results from external teams, providing expert feedback on validity, risks, and interpretability.
+4. Assess data quality, representativeness, and bias, and advise on mitigation strategies appropriate to rare disease contexts.
+5. Evaluate alignment between technical performance metrics and clinical decision-making needs, working closely with clinical SMEs.
+6. Identify gaps between benchmark performance and real-world applicability, and advise on corrective actions.
+7. Serve as a technical bridge between AI developers, clinical experts, and program leadership.
+8. Support the program manager with technical assessments, recommendations, and decision support related to data and evaluation.
+9. Track progress of external partners and identify data- or evaluation-related risks that could impact program outcomes.
+10. Produce high-quality written reports, analyses, and presentations that communicate technical findings to diverse audiences.
+
+This role is suited to candidates who:
+-Think deeply about measurement, validity, and scientific rigor.
+-Are comfortable exercising judgment in ambiguous or under-specified evaluation contexts.
+-Maintain high standards for data quality and methodological integrity.
+-Communicate clearly across clinical, technical, and programmatic audiences.
+-Operate with ownership and accountability in high-stakes environments.
+-Are motivated by advancing AI systems that deliver real clinical and patient impact, not just strong metrics.
+
+Minimum Qualifications:
+-PhD in Biomedical Informatics, Data Science, Biostatistics, or a related field.
+-5+ years of experience working with healthcare or biomedical data in applied or evaluative roles.
+-Hands-on experience with EHR, genomic, or multimodal healthcare datasets.
+-Deep understanding of AI/ML evaluation methods, including benchmarking, robustness, and sources of bias or leakage.
+-Demonstrated ability to critically review and assess technical work across health data and AI domains.
+-Strong understanding of data governance, privacy, and compliance in healthcare contexts.
+-Excellent written and verbal communication skills, with experience producing high-quality technical materials.
+
+Preferred Qualifications:
+-Domain expertise in rare disease, diagnostics, or clinical decision support.
+-Prior experience in technical advisory, evaluation, or SETA-style roles.
+-Experience collaborating closely with clinicians and healthcare stakeholders.
+-Experience working in fast-paced, multi-stakeholder, or early-stage environments.
+
+Education: PhD in Biomedical Informatics, Data Science, Biostatistics, or a related field.
+
+Location: Position is remote.
+
+Travel: Periodic travel may be required
+
+Clearance: Ability to obtain HHS Public Trust.
+
+PI283014908

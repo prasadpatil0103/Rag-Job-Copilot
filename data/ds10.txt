@@ -1,0 +1,35 @@
+Title: AI/ML Data Scientist
+Company: Vanguard Careers
+Location: Malvern, Pennsylvania
+
+Responsibilities
+• Develops complex queries and performs extensive programming to access, transform, and prepare data for statistical modeling.
+• Leads and executes deep dive diagnostic, predictive, and prescriptive analytics to support data-driven business decision making. Mentors and develops junior data scientists and analysts.
+• Identifies and diagnoses data inconsistencies and errors, documents data assumptions, and forages to fill data gaps.
+• Engages with internal stakeholders to understand and probe business processes in order to develop hypotheses. Brings structure to requests and translates requirements into an analytic approach.
+• Guides test design, research design, and model validation. Provides statistical consultation services. Serves as the analytics expert on cross functional teams for large strategic initiatives and contributes to the growth of the Vanguard analytic community.
+• Prepares and delivers insight presentations and action recommendations. Communicates complex analytical findings and implications to business leaders.
+• Participates in special projects and performs other duties as assigned.
+• Designs scalable data mining models and reporting protocols to identify trends and patterns in massive datasets.
+• Applies modern and emerging data science techniques to solve business problems across functions such as marketing, economics, and operations.
+• Contributes to the advancement of analytics through exploratory research and application of cutting-edge statistical theory.
+
+Qualifications and Skills
+• Minimum 8 years of experience in data science, predictive analytics, or advanced statistical modeling roles
+• Bachelor’s degree (B.E./B.Tech) in Analytics, Applied Mathematics, Economics, Statistics, or Computer Science, or a Master’s degree/Diploma in a related quantitative field
+• Expertise in programming with Python, R, or SQL; hands-on experience with machine learning libraries (e.g., Scikit-learn, TensorFlow); strong understanding of data pipelines, data wrangling, and statistical techniques; experience in big data environments (Spark/Hadoop); familiarity with visualization tools like Tableau or Power BI.
+
+Special Factors
+
+Sponsorship
+Vanguard is offering visa sponsorship for this position.
+
+About Vanguard
+
+At Vanguard, we don't just have a mission—we're on a mission.
+
+To work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.
+
+How We Work
+
+Vanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.

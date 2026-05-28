@@ -1,0 +1,60 @@
+Title: Associate Data Engineer
+Company: Lockheed Martin
+Location: Orlando, Florida
+
+Description:Join Lockheed Martin’s digital transformation journey as we accelerate the OneLM Mission-Driven Transformation on the Lockheed Martin Missiles and Fire Control Orchestration Platforms team. We are working on reshaping our operations and business processes to better serve our customers in terms of cost, quality, and capabilities, while delivering the speed, agility, and insights necessary to stay ahead of rapidly-evolving threats.
+
+The Missiles and Fire Control Orchestration Platforms Team is looking for an experienced Data Engineer to join our Data Engineering team.
+
+What You Will Be Doing:
+In this role, you be working with stakeholders, architects, and internal customers to build and maintain data models and database driven tools that accelerate our business processes
+
+• Create ETL pipelines that clean, transform, and aggregate unorganized data into databases or data sources that are ready for analysis.
+• Design and implement data solutions by defining functional capabilities, security, back-up and recovery specifications.
+• Formulating functional and technical requirements from business problems
+• Design digital thread solutions that treat data as an asset that can easily move between systems.
+• Architecting application landscapes and solutions for deployment within Lockheed Martin, leveraging expertise in IBM CloudPak (CP4D) Services architecture and security.
+• Interpreting systems metrics to diagnose and resolve problems, leveraging strong analytical and problem-solving skills.
+• Collaborating with cross-functional teams in an Agile (Scrum/Jira) fast-paced environment, demonstrating strong communication and problem-solving skills.
+Basic Qualifications:
+• Ability to Obtain and Maintain a Secret Level Security Clearance
+• US Citizenship is required due to system access
+• Strong experience in SQL
+• Strong experience with SQL Server development including stored procedures, views, table design, permissions
+• Experience with CI/CD, and Gitlab capabilities in a data environment
+• Experience with Python focused on data transformation and data movement
+• Experience with Data Lakes, Data warehouses and Big Data environments
+• Experience with JDBC, ODBC, Connectors, API based access, and REST API calls
+• Experience with data modeling, data structures, databases, and ETL tools (DataStage, NIFI, etc) • Ability to understand business needs and translate them into technical requirements
+Desired Skills:
+Experience with data management and analytics, with IBM Cloud Pak for Data (CP4D) and/or equivalent products like IBM Knowledge Catalog, Data Virtualization, DataStage and Cognos
+• Experience with DB2 or other relational database (Oracle, SQL Server, Postgres etc..)
+• Experience with data visualization tools such as Tableau, Power BI, IBM Cognos • Experience with data virtualization tools such as Tibco Data Virtualization (Tibco DV)
+• Experience with AWS cloud and core services: S3, IAM, Lambda, EMR, EC2, RDS, VPC, Storage, etc
+Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.
+Clearance Level: Secret
+Other Important Information You Should Know
+Expression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+Ability to Work Remotely: Full-time Remote Telework: The employee selected for this position will work remotely full time at a location other than a Lockheed Martin designated office/job site. Employees may travel to a Lockheed Martin office for periodic meetings.
+Work Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.
+Schedule for this Position: 4x10 hour day, 3 days off per week
+Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $72,200 - $125,005. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.
+Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.
+This position is incentive plan eligible.
+Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $62,700 - $110,630. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.
+Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.
+(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.
+This position is incentive plan eligible.
+Lockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.
+The application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.
+At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.
+
+With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.
+
+If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.
+Experience Level: Experienced Professional
+Business Unit: ENTERPRISE BUSINESS SERVICES
+Relocation Available: No
+Career Area: Software Engineering
+Type: Full-Time
+Shift: First

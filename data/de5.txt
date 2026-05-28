@@ -1,0 +1,83 @@
+Title: (USA) Data Engineer III
+Company: Walmart
+Location: Springdale, Arkansas
+
+Position Summary...
+
+What you'll do... We are looking for data engineer with backend development knowledge with a growth mindset to join our Data and Customer Analytics (DCA) team. Our engineers combine creativity, curiosity, and drive to get things done. You will be a key member of the Data team and will be responsible for a wide range of analytics features, initiatives, and enhancements in Supply Chain data domain. If you thrive in a dynamic environment where you are involved in designing, implementing and iteratively improving crucial features, then this is the job for you!
+
+About Team:
+Everyone has data, but the sheer volume of data at Walmart can be limitless. In the Data Engineering team, we help Walmart manage this data by building pipelines and data lakes to prepare big data for analysis and unlocking actionable insights in real-time. We also use cross-departmental data and machine learning to build a holistic view of true profitability, saving millions of dollars across item categories and geographies while assisting our leadership in making better decisions faster.
+• ****Immigration Sponsorship support will NOT be available for this
+position*****
+
+What you'll do:
+• Data Transformation and Integration: Extracts data from identified databases. Creates data pipelines and transform data to a structure that is relevant to the problem by selecting appropriate techniques. Develops knowledge of current analytics trends.
+• Data Source Identification: Supports the understanding of the priority order of requirements and service level agreements. Helps identify the most suitable source for data that is fit for purpose. Performs initial data quality checks on extracted data.
+• Data Modeling: Analyses complex data elements, systems, data flows, dependencies, and relationships to contribute to conceptual, physical, and logical data models. Develops the Logical Data Model and Physical Data Models including data warehouse and data mart designs. Defines relational tables, primary and foreign keys, and stored procedures to create a data model structure. Evaluates existing data models and physical databases for variances and discrepancies. Develops efficient data flows. Analyses data-related system integration challenges and proposes appropriate solutions.
+• Code Development and Testing: Writes code to develop the required solution and application features by determining the appropriate programming language and leveraging business, technical and data requirements. Creates test cases to review and validate the proposed solution design. Creates proofs of concept. Tests the code using the appropriate testing approach. Deploys software to production servers. Contributes code documentation, maintains playbook, and provides timely progress updates.
+• Applied Business Acumen: Provides recommendations to business stakeholders to solve complex business issues. Develops business cases for projects with a projected return on investment or cost savings. Translates business requirements into projects, activities, and tasks and aligns to overall business strategy. Serves as an interpreter and conduit to connect business needs with tangible solutions and results. Recommends new processes and ways of working.
+• Participate in designing data application architecture with senior architects.
+• Data Governance: Establishes, modifies, and documents data governance projects and recommendations. Implements data governance practices in partnership with business stakeholders and peers. Interprets company and regulatory policies on data. Educates others on data governance processes, practices, policies, and guidelines. Provides recommendations on needed updates or inputs into data governance policies, practices, or guidelines.
+• Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans by providing expert advice and guidance to others. Supporting and aligning efforts to meet customer and business needs and building commitment for perspectives and rationales.
+• Provides and supports the implementation of business solutions by building relationships and partnerships with key stakeholders. Identifying business needs, determining, and carrying out necessary processes and practices.
+• Promotes and supports company policies, procedures, mission, values, and standards of ethics and integrity by training and providing direction to others in their use and application, ensuring compliance with them.
+• Ensures business needs are being met by evaluating the ongoing effectiveness of current plans, programs, and initiatives. Applying suggestions for improving efficiency and cost effectiveness; and participating in and supporting community outreach events.
+• Create and maintain optimal data pipeline architecture.
+• Develop set processes for data modeling, mining and production.
+• Create custom software components and analytics applications.
+• Employ a variety of languages and tools to marry data systems together.
+• Recommend ways to improve data reliability, efficiency, and quality.
+• Work closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+• Design and implement data tools for analytics and data scientist team members to help them in building and optimizing in the Walmart ecosystem.
+• Creates training documentation and trains end-users on data modeling. Oversees the tasks of less experienced programmers and stipulates system troubleshooting supports.
+
+What you'll bring:
+• Experience with Big Data Technologies, Spark, Cloud, Streaming, Kafka core, Kafka connect.
+• You have a proven track record coding with at least one programming language (e.g., Java, Scala, Python).
+• You're experienced in SQL, Advanced SQL, query optimization, window functions.
+• You're experienced in one of cloud computing platforms (e.g., GCP, Azure).
+• You're skilled in data modeling & data migration protocols.
+• Experience with GCP (or any other similar cloud offerings), Data warehousing, BI preferred.
+• Knowledge with the orchestration tools like Airflow.
+• Knowledge in designing large scale distributed systems and well versed with end-to-end system designing.
+• Knowledge in building highly scalable Big Data solutions and ETL ecosystems.
+• Hands on knowledge in RDBMS like MySQL, Postgres is plus. Good to have knowledge in NoSQL like Druid, Cosmos DB etc.
+• Develop set processes for data mining, data modeling, and data production.
+• Hands on with Gen AI tools and AI-Assisted development.
+
+About Walmart Global Tech
+Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.
+At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.
+Eligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.
+For information about benefits and eligibility, see One.Walmart.
+The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :
+- Stock
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+ㅤ
+
+‎
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelor’s degree in Computer Science and 2 years' experience in software engineering or related field. Option 2: 4 years’ experience in
+software engineering or related field. Option 3: Master's degree in Computer Science.
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data engineering, database engineering, business intelligence, or business analytics, Master’s degree in Computer Science or related field and 2 years' experience in software engineering or related field, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.
+
+Primary Location...
+
+2608 Se J St, Bentonville, AR 72716-3724, United States of America
+
+Walmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.

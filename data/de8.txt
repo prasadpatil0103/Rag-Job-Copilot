@@ -1,0 +1,115 @@
+Title: Senior Lead Analyst - Data Engineering
+Company: MetLife
+Location: Cary, North Carolina
+
+Location(s)
+• Posting Location: Cary, North Carolina
+• Posting Location: New York, New York
+• Posting Location: Bridgewater, New Jersey
+
+City/Cities
+
+Bridgewater, Cary, New York
+
+Region/States
+
+New Jersey, New York, North Carolina
+
+Country
+
+United States
+
+Working Schedule
+
+Full-Time
+
+Work Arrangement
+
+Hybrid
+
+Travel Required
+
+10%
+
+Relocation Assistance Available
+
+No
+
+Posted Date
+
+13-Mar-2026
+
+Job ID
+
+16113
+
+Description and Requirements
+
+The Team You Will Join
+
+The position sits within the newly consolidated Employer & Broker pillar of Data and Analytics (D&A) organization supporting MetLife's U.S. Business. U.S. D&A assists all business lines of MetLife’s U.S. business (about 2/3 of MetLife Global by earnings) with everything related to reporting and analytics including visualization, business intelligence, data science, and AI.
+
+The Opportunity
+
+The Data Analyst serves as the data expert and acts as the backbone to the analytics life cycle, responsible for requirement gathering and solutioning. The individual will collaborate with all the stakeholders of the project (technical leads, build team, project managers and business/operations teams) in building data enablement solutions across different LOBs and use cases.
+
+How You’ll Help Us Build a Confident Future (Key Responsibilities)
+• Work with business users/tech partners to translate given business problems into solutions to develop ETL processes with defined outcomes.
+• Analyze the data in depth, using SQLs and other exploratory tools against various platforms such as Azure Synapse, Databricks, Bigdata, Oracle, SQL Server and others.
+• Convert business requirements to functional requirements, with detailed transformation rules for ETL team. This is a very technical hands-on role and is responsible for the functional design of the end-to-end process.
+• Work closely with the ETL and data science/reporting teams to review the requirements and data integrations.
+• Understand the requirements from Business and Data Science/reporting. Understand the business and business impact on use cases.
+• Write validation scripts to validate the data loaded by data engineering team.
+• Work with IT, business, and architects to develop and design requirements to formulate technical design.
+• Skills to understand the right functional domain knowledge of the business to be able to gather right requirements for the design.
+• Capture meta data, data lineage, reference data management and data quality rules as part of data governance.
+• Overseeing the development of ETL processes in Azure synapse or Databricks and able to modify those ETL pipelines and troubleshoot failures or issues.
+• Lead the team, including stakeholders, spread across the globe in driving the delivery of projects.
+• Lead/mentor other analysts within the team and/or organization.
+
+Required Skills:
+• Bachelor’s degree in computer science, engineering, or related discipline.
+• 8+ years of overall experience, including 5+ years working in a data management/engineering organization.
+• Proficient in Agile development and operations.
+• Detail oriented, gathering the appropriate level of feature and user story descriptions and benefit hypothesis.
+• Extensive experience in data analysis and data modeling (table design).
+• Extensive experience writing functional requirements and high-level design documents, data-flow diagrams, etc.
+• Experience in writing validation scripts to validate the data, data integrations and ETL transformations.
+• Analytical skills to analyze situations and come to optimal and efficient solution based on requirements.
+• SQL knowledge and data analysis skills for data anomaly detection and data quality assurance.
+• Proficiency in SQLs and data exploration tools. Experience with SQL, Spark &/or Scala/Python and performance tuning.
+• Experience with scripting primarily on shell/bash/ PowerShell.
+• Excellent communication skills, both written and verbal.
+• Strong leadership and negotiation skills.
+
+Preferred Skills:
+• Working closely with product management, customers, business owners, and other stakeholders to create viable and sustainable plans, and seeking and incorporating feedback into the solutions, and ensuring completeness and timely execution.
+• Strong technical experience in Azure synapse, Azure Databricks, including Spark, DeltaLake, data stores for analytics consumption.
+• Hands-on expertise in Azure SQL Synapse and/or Data Factory experience.
+• Help define, refine, prioritize, and accept the work by an Agile team to meet the feature acceptance criteria and maintain a sustainable pace.
+• Strong background or working experience in Insurance Industry.
+• Ability to interact with senior leadership teams in IT and business.
+• Exposure to Gen AI technology and tools.
+• DevOps practices: Git, Azure Dev Ops, CI/CD pipelines.
+
+Location Expectation: This is a hybrid role requiring a minimum of 3 days per week in office.
+
+The expected salary range for this position is $110,000 - $175,600. This role may also be eligible for annual short-term incentive compensation. All incentives and benefits are subject to the applicable plan terms.
+
+Benefits We Offer
+
+Our U.S. benefits address holistic well-being with programs for physical and mental health, financial wellness, and support for families. We offer a comprehensive health plan that includes medical/prescription drug and vision, dental insurance, and no-cost short- and long-term disability. We also provide company-paid life insurance and legal services, a retirement pension funded entirely by MetLife and 401(k) with employer matching, group discounts on voluntary insurance products including auto and home, pet, critical illness, hospital indemnity, and accident insurance, as well as Employee Assistance Program (EAP) and digital mental health programs, parental leave, paid time off, paid holidays, volunteer time off, tuition assistance and much more!
+
+About MetLife
+
+Recognized on Fortune magazine's list of the "World's Most Admired Companies", Fortune World’s 25 Best Workplaces™, as well as the Fortune 100 Best Companies to Work For®, MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies; providing insurance, annuities, employee benefits and asset management to individual and institutional customers. With operations in more than 40 markets, we hold leading positions in the United States, Latin America, Asia, Europe, and the Middle East.
+
+Our purpose is simple - to help our colleagues, customers, communities, and the world at large create a more confident future. United by purpose and guided by our core values - Win Together, Do the Right Thing, Deliver Impact Over Activity, and Think Ahead - we’re inspired to transform the next century in financial services. At MetLife, it’s #AllTogetherPossible. Join us!
+
+MetLife is an Equal Opportunity Employer. All employment decisions are made without regards to race, color, national origin, religion, creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, marital or domestic/civil partnership status, genetic information, citizenship status (although applicants and employees must be legally authorized to work in the United States), uniformed service member or veteran status, or any other characteristic protected by applicable federal, state, or local law (“protected characteristics”).
+
+If you need an accommodation due to a disability, please email us at accommodations@metlife.com. This information will be held in confidence and used only to determine an appropriate accommodation for the application process.
+
+MetLife maintains a drug-free workplace.
+
+$110,000 - $175,600

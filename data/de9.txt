@@ -1,0 +1,36 @@
+Title: Lead Data Engineer - REMOTE
+Company: Jobgether
+Location: , Minnesota
+
+Lead Data Engineer - REMOTE
+
+This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Principal Data Engineer. This role is pivotal in transforming healthcare data integration through advanced engineering techniques and methodologies. You will be tasked with designing and optimizing data pipelines that handle clinical data from various sources while ensuring compliance with healthcare standards. As an integral part of our engineering team, you'll have the opportunity to enhance the quality and efficiency of healthcare delivery by leveraging your expertise in both EHR systems and cloud technologies. Your contributions will directly impact the lives of thousands by facilitating seamless access to vital healthcare data.
+Accountabilities
+• Architect production-grade data pipelines integrating clinical data across multiple channels.
+• Lead integration efforts with health plan partners and health information exchanges.
+• Build and optimize cloud-native data infrastructure using AWS.
+• Develop frameworks and internal tooling for accelerating new data source onboarding.
+• Collaborate with data science teams to build foundations for predictive analytics.
+• Ensure compliance with HIPAA and other privacy regulations.
+Requirements
+• 8+ years of experience in software engineering with a focus on healthcare data engineering.
+• Expert proficiency in Python and experience with additional programming languages.
+• Strong understanding of distributed systems and cloud computing.
+• Experience with data modeling and performance optimization.
+• Knowledge of containerization technologies like Docker.
+• Strong communication skills for technical and non-technical audiences.
+Benefits
+• Stock options for investing in the companys growth.
+• Performance-based bonus incentive program.
+• Work-from-home stipend for office setup.
+• Comprehensive medical, vision, and dental coverage.
+• Basic life insurance for peace of mind.
+• 20 vacation days plus 11 paid holidays per year.
+• Parental leave for birthing and non-birthing parents.
+• 401(k) plan with company contribution.
+• Professional development stipend for growth opportunities.
+Why Apply Through Jobgether?
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+We appreciate your interest and wish you the best!
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+#LI-CL1

@@ -1,0 +1,88 @@
+Title: Senior Data Engineer
+Company: Uncommon Schools
+Location: Larchmont, New York
+
+Company Description
+
+Uncommon Schools is a nonprofit network of high-performing public charter schools dedicated to providing an exceptional K-12 education in economically disadvantaged communities. Operating in Boston, Camden, New York City, Newark, and Rochester, we are committed to closing the college completion gap and preparing every student for college and beyond. Our students consistently exceed national benchmarks, reflecting our dedication to their success. We invest deeply in our educators, offering weekly coaching, feedback, and professional development to ensure excellence in teaching and leadership. Join us to work hard, do good, and make a lasting difference!
+Job Description
+
+You will play a key role in shaping how data flows across Uncommon Schools, helping teams make better decisions that directly impact students and communities. As a Senior Data Engineer, you’ll design and build the systems that connect our applications and data warehouse, ensuring data is accurate, accessible, and reliable.
+
+You’ll partner closely with teams across Data, IT, and the organization to translate complex needs into scalable solutions. This is a highly collaborative role where your work will strengthen how we use data to drive outcomes and continuously improve how we operate.
+
+Responsibilities
+
+Data Integration & Architecture
+• Design end-to-end data pipelines and integrations aligned to organizational goals
+• Build and maintain APIs to enable seamless data movement across systems
+• Transform and connect data across applications and the data warehouse while maintaining data integrity
+• Establish and implement standards for scalable, sustainable integration development
+
+Systems Maintenance & Support
+• Provide advanced support for data integrations and partner with IT and Product teams to resolve issues
+• Guide implementation of new integrations and support systems post-deployment
+• Select and implement tools that support integration and data infrastructure needs
+• Create training resources to support adoption of new systems and processes
+
+Stakeholder Partnership & Technical Leadership
+• Partner with stakeholders to understand needs and translate them into technical solutions
+• Communicate complex concepts clearly to support strong decision-making
+• Mentor team members and support adoption of best practices and coding standards
+• Identify new opportunities to connect and leverage data across systems
+
+Governance, Quality & Security
+• Monitor integrations to ensure accuracy, reliability, and security
+• Maintain documentation and a centralized view of data integrations
+• Support development of governance frameworks for data management
+• Contribute to long-term enterprise architecture planning and technical direction
+Qualifications
+
+Required
+• Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent experience
+• Experience building and maintaining data integrations in RESTful or SOAP environments
+• Proficiency in at least one programming language such as Python, JavaScript, C#, or Java
+• Strong experience writing and maintaining complex SQL queries
+• Experience with data pipeline and workflow tools such as Apache Airflow
+• Experience with data modeling tools such as dbt
+• Familiarity with source control and continuous integration workflows
+
+Preferred
+• Experience with data validation tools or frameworks
+• Experience working with AI coding tools or assistants
+• Experience designing scalable data architectures across multiple systems
+
+Additional Skills
+• Strong problem-solving skills with attention to detail
+• Ability to prioritize work and manage multiple responsibilities
+• Clear and thoughtful communication with both technical and non-technical audiences
+• Experience documenting work and sharing progress with stakeholders
+
+Not sure you meet every qualification? We encourage you to apply—we’re excited to learn what you bring.
+Additional Information
+
+Our people are what make us Uncommon. We offer competitive compensation and comprehensive benefits that support the personal health, wellness, and finances of our staff and their families. Our compensation philosophy values equity & fairness and attracting & retaining top talent.
+
+Compensation
+
+The full compensation range for this role is $120,700 to $142,000 per hour. Typically, new hires who fully meet all qualifications listed in the job description will start at $124,300. Starting compensation below this reflects candidates with less experience or qualifications. Offers near the top end of the range are reserved for candidates who significantly exceed the qualifications, bringing extensive experience and specialized expertise beyond what is listed.
+
+Compensation determinations consider relevant professional experience and tenure with Uncommon Schools.
+
+Work Environment
+
+Manhattan-based role with in-office work three days per week.
+
+Benefit Highlights:
+• 19 days of paid time off
+• 3 weeks of paid Winter and Summer org-wide holidays
+• Comprehensive Health, Dental, and Vision insurance plans
+• 403(b) retirement savings program + employer match
+• Paid leave of absence options (parental, medical, disability, etc.)
+• Mental health and counseling support + wellness benefits
+• Pre-tax flexible spending, dependent care, and health saving accounts
+• A detailed list of all benefits is located HERE.
+
+At Uncommon, we believe that a supportive and welcoming environment helps our students, staff, and community thrive. We are dedicated to building a team that brings a wide range of perspectives and experiences, reflective of the communities we serve---with over 70% of our staff identifying as people of color. Our organization values respect and open dialogue on important topics that shape our school culture.
+
+As an equal opportunity employer, Uncommon provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. We also ensure that individuals with disabilities receive all privileges and benefits associated with employment and are provided reasonable accommodations for the interview process and to perform core job functions. If you would like to request an accommodation, please email recruitment@uncommonschools.org.

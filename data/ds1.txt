@@ -1,0 +1,27 @@
+Title: Data Scientist
+Company: Peraton
+Location: Washington, District of Columbia
+
+Required Qualifications
+• Bachelor’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related field
+• 5+ years of professional experience in data science, analytics, or a related technical role
+• Active TS/SCI clearance with polygraph; or Active TS/SCI with ability to pass a polygraph
+• Familiarity with ServiceNow, including integrations, Performance Analytics, and/or custom application development
+• Experience with statistical analysis, machine learning algorithms, and predictive modeling techniques
+• Strong SQL skills and experience working with large, complex datasets
+• Ability to work effectively in a classified, on-site environment
+
+Preferred Qualifications
+• ServiceNow certifications (CSA, CAD, CIS, or Performance Analytics)
+• Familiarity with development in JavaScript
+
+We are seeking a highly skilled Data Scientist to support mission-critical programs in a cleared environment. This role focuses on leveraging advanced analytics, automation, and platform integrations within the ServiceNow ecosystem (ServiceNow is a vehicle to hold the data, all analysis is done in Tableau for Visualization) to deliver actionable insights for government and intelligence stakeholders. The ideal candidate will possess an active TS/SCI clearance with polygraph and a minimum of 5 years of hands-on data science experience.
+
+Key Responsibilities
+• Design, develop, and deploy advanced data models, predictive analytics, and machine learning solutions in a classified environment
+• Build and integrate data science solutions within the ServiceNow platform, including Performance Analytics, custom applications, and workflow automation
+• Analyze large, complex datasets to identify trends, anomalies, and mission-relevant insights
+• Collaborate with government, intelligence, and internal technical teams to translate mission requirements into scalable analytics solutions
+• Create dashboards, reports, and data visualizations to support operational and strategic decision-making via Tableau
+• Ensure compliance with data security, governance, and classified handling requirements
+• Provide technical leadership and mentorship to junior team members

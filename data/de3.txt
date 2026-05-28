@@ -1,0 +1,72 @@
+Title: Data Engineer - Entry Level
+Company: Attainx Inc.
+Location: Herndon, Virginia
+
+Attainx Inc.
+
+Job Title: Junior Data Engineer
+Location Hybrid – Herndon, VA
+Security Clearance: Ability to obtain a Public Trust
+
+AttainX Inc. is seeking a Junior Data Engineer — Pipelines & Workflow Automation to join our Innovation Labs and support the design, development, and continuous improvement of modern data workflows for mission-focused federal environments. This is a role for an early-career professional who combines hands-on engineering discipline with platform automation capability, someone who understands that high-quality data and efficient workflows are inseparable drivers of mission success.
+
+The right candidate will bring demonstrated experience in Python, SQL, ETL pipeline development, REST API integration, and data validation, alongside hands-on exposure to low-code/no-code platforms such as Salesforce. You will contribute to data-driven solutions that improve operational insight, pipeline reliability, and workflow efficiency across enterprise and federal programs, supported by direct mentorship and structured project assignments from day one.
+
+Essential Required Qualifications:
+• Bachelor’s or Master’s degree in Computer Science, Information Technology, Data Engineering, Data Science, or a closely related discipline.
+• 1–2 years of combined internship, project, or professional experience in software development, data engineering, analytics, or workflow automation.
+• Demonstrated ability to collaborate across engineering, data, and business stakeholder teams in Agile/Scrum environments.
+• Excellent documentation habits, attention to detail, and the ability to translate technical findings into clear stakeholder communications.
+• A growth mindset: curious, accountable, and eager to deepen expertise in cloud engineering, automation, and data platform tooling.
+• Proficiency in Python and SQL for data extraction, transformation, validation, and pipeline scripting.
+• Hands-on experience with ETL pipelines: data cleaning, preprocessing, transformation, and quality validation workflows.
+• REST API integration experience — designing, building, or consuming APIs for structured data exchange between systems.
+• Exposure to cloud data platforms (Azure preferred; AWS, GCP, or Snowflake acceptable) and foundational big data concepts.
+• Salesforce platform tools: Flow Builder, Lightning App Builder, object/field configuration, reports & dashboards, data import/export utilities.
+• Version control and project management tooling: Git/GitHub, JIRA, Postman.
+• Applied understanding of SDLC principles across data engineering and application development contexts.
+• * Required Certifications:
+• Microsoft Azure Data Fundamentals (DP-900): Demonstrates foundational fluency in cloud data storage, big data concepts, and SQL in Azure environments.
+• Salesforce Certified Administrator (ADM-201): Confirms platform configuration, data management, workflow automation, and CRM governance competency.
+• Salesforce Platform App Builder: Reflects the ability to model data, build custom applications, and automate business logic using low-code/no-code tools at a production standard.
+
+Core Responsibilities:
+• Pipeline Development & ETL Engineering: Build, maintain, and optimize data pipelines that extract, clean, and transform structured and unstructured data from APIs, databases, and system logs into target data stores (PostgreSQL, Redshift, or equivalent). Apply validation checks at each stage to ensure data accuracy, completeness, and compliance readiness.
+• Python & SQL Engineering: Write and optimize Python scripts and SQL queries to process, validate, and manage datasets across multiple source and target systems. Own your code quality through testing, debugging, and documentation.
+• Low-Code / No-Code Workflow Automation: Design and implement business process automation using Salesforce platform tools — including Flow Builder, Lightning App Builder, validation rules, and data management features — to reduce manual effort and accelerate data-driven workflows without sacrificing governance.
+• CRM Data Integration & Governance: Configure and maintain Salesforce data models, objects, and fields. Perform data import, transformation, and quality management using Salesforce native tools. Ensure CRM datasets are clean, consistent, and analytics-ready.
+• REST API Integration: Build and support API integrations that enable secure, reliable data exchange between applications and backend services. Apply SDLC principles across design, development, testing, and deployment phases.
+• Cloud Data Support: Assist in deploying and supporting cloud-based data workflows. Contribute to scalable, cloud-native architectures that improve data accessibility and processing speed across Azure or equivalent environments.
+• Reporting & Dashboards: Develop reports and dashboards using Salesforce Reports & Dashboards or equivalent tools to translate operational data into stakeholder-ready insights. Support analytics enablement by preparing structured datasets for downstream analysis.
+• Agile Delivery & Documentation: Participate in Agile sprint ceremonies, contribute to sprint deliverables, and produce clear technical documentation covering data models, pipeline logic, API integrations, and configuration changes. Use JIRA and GitHub as standard tools for tracking and version control.
+• Continuous Learning: Stay engaged with emerging practices in data engineering, MLOps, cloud-native architectures, and platform automation. Contribute to a team culture that values technical growth, peer knowledge sharing, and mission-driven innovation.
+
+About Us:
+
+AttainX Inc. is a Women Owned Small Business (WOSB), Economically Disadvantaged WOSB (EDWOSB), CMMC Level 2, CMMI Level 3, ISO 9001:2015 certified QMS and Silver Level SAFe Partner. For more than 15 years, AttainX, Inc. has delivered emergent technologies, software products, and high-quality services that meet the needs of our Federal Government customers.
+
+The last 4 years have shown significant company growth as we have increased our contracts portfolio and hold the “Best in Class” contract vehicles, GSA MAS and OASIS Small Business and 8(a) Pools 1, 2 and 3. In addition, we are prime on several Agency Specific IDIQs and BPAs with the National Oceanic and Atmospheric Administration, Department of Energy, Navy, Health and Human Service, USCIS and the Defense Intelligence Agency.
+
+AttainX is dedicated to quality and best practices for the services we provide. We understand our people are the key ingredient to ensuring our customers Mission and Goals are met with excellence.
+
+Benefits:
+
+Competitive compensation and benefits packages including paid vacation, medical, dental, vision, matching 401K plan, tuition/training reimbursement, and Long & Short-Term Disability.
+
+EEO Commitment:
+
+AttainX is an equal employment opportunity employer, committed to providing a workplace free from discrimination based on Title VII of the Civil Rights Act, VEVRAA and Section 503, or other status protected by applicable federal, state, local, or international law. These protections also extend to applicants.
+
+Accommodation:
+
+Individuals with a disability who would like to request a reasonable workplace accommodation may send an email to Human Resources indicating the specifics of the assistance needed.
+
+Physical Demands:
+
+Sitting and working on a computer for long, continuous periods each day; effective communications by telephone, email, and face-to-face; standing, walking, and sitting; handling and feeling objects or controls; reaching; talking and hearing; lifting and/or moving up to 10 pounds; and specific vision abilities including close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust and focus.
+
+Work Environment: The noise level in the work environment is usually moderate.
+
+Equal employment opportunity, including veterans and individuals with disabilities.
+
+PI283133523

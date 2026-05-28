@@ -1,0 +1,63 @@
+Title: Slalom Flex (Project Based)- SAP Data Engineer
+Company: Slalom
+Location: Laurel, Maryland
+
+SAP Data Engineer (SAP PM Focus)
+
+About Us
+
+Slalom is a purpose-led, global business and technology consulting company. From strategy to implementation, our approach is fiercely human. In six+ countries and 43+ markets, we deeply understand our customers—and their customers—to deliver practical, end-to-end solutions that drive meaningful impact. Backed by close partnerships with over 400 leading technology providers, our 10,000+ strong team helps people and organizations dream bigger, move faster, and build better tomorrows for all. We’re honored to be consistently recognized as a great place to work, including being one of Fortune’s 100 Best Companies to Work For seven years running. Learn more at slalom.com.
+
+Location: Florida (ability to travel to Florida every other week)
+
+Duration: Feb 23, 2026 – June 1, 2026
+
+Hours: 40 hours/week
+
+Role Overview
+
+We are seeking a senior‑level Data Engineer with SAP experience, ideally with exposure to the SAP Plant Maintenance (PM) module, to support an enterprise client in the utilities / renewable energy space. This role will focus on extracting, modeling, and enabling analytics from SAP PM data while partnering closely with SAP functional and data teams.
+
+The ideal candidate combines strong data engineering fundamentals, prior SAP experience, and the ability to quickly ramp into new SAP domains while guiding and enabling client data engineers.
+
+What You’ll Do
+• Design, build, and maintain data pipelines sourcing data from SAP, with a primary focus on SAP PM.
+• Partner with SAP PM functional analysts to translate maintenance concepts and requirements into analytics‑ready data models.
+• Extract, transform, and model SAP PM data for reporting and operational insights.
+• Ensure data quality, reliability, and performance across SAP‑sourced datasets.
+• Provide technical guidance and enablement to client data engineers, including best practices and documentation.
+• Collaborate with cross‑functional teams to deliver high‑impact data solutions in a consulting environment.
+
+Required Qualifications
+• Strong experience as a Data Engineer on enterprise data platforms.
+• Prior hands‑on experience working with SAP data (ECC and/or S/4HANA).
+• Advanced SQL skills and experience with analytical data modeling.
+• Ability to work closely with SAP functional teams and business stakeholders.
+• Experience mentoring, enabling, or upskilling other data engineers.
+• Strong communication skills and comfort in a client‑facing role.
+
+Preferred Qualifications
+• Direct experience with SAP PM (Plant Maintenance).
+• Background in utilities, energy, or renewable energy industries.
+• Experience supporting SAP analytics or reporting use cases.
+• Willingness to travel to Florida 50%
+
+Why This Role
+
+This is a high‑impact, short‑term engagement for a senior Data Engineer who enjoys working at the intersection of SAP, data, and analytics, quickly ramping into new domains, and helping client teams become more self‑sufficient.
+
+Compensation And Benefits
+
+Slalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud to invest in benefits that include meaningful time off and paid holidays, 401(k) with a match, a range of choices for highly subsidized health, dental, & vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer yearly $350 reimbursement account for any well-being-related expenses.
+
+Slalom is committed to fair and equitable compensation practices. For this position, the base salary pay range is $80/hr to $95/hr. Actual compensation will depend upon an individual’s skills, experience, qualifications, location, and other relevant factors. The salary pay range is subject to change and may be modified at any time.
+
+EEO and Accommodations
+
+Slalom is an equal opportunity employer and is committed to inclusion, diversity, and equity in the workplace. All qualified applicants will receive consideration
+
+for employment without regard to race, color, religion, sex, national origin, disability status, protected veterans’ status, or any other characteristic protected by federal, state, or local laws. Slalom will also consider qualified applications with criminal histories, consistent with legal requirements.
+
+Slalom welcomes and encourages applications from individuals with disabilities. Reasonable accommodations are available for candidates during all aspects of the
+
+selection process. Please advise the talent acquisition team if you require accommodations during the interview process.
